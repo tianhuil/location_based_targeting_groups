@@ -1,0 +1,9 @@
+selenium
+requests
+python-dotenv
+pytz
+
+# Dev resources
+ipdb
+ipython
+ipdb
